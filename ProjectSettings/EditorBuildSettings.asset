@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/UIScene.unity
-    guid: ba28403afcfe8c04e93aa683dbef506e
+    path: Assets/Scenes/HUDScene.unity
+    guid: 953f06773de77c847a0339943e6548e2
   m_configObjects: {}
